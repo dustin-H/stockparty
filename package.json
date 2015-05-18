@@ -16,7 +16,10 @@
     "socket.io-client": "^1.1.0",
     "superagent": "^0.20.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-coveralls": "^1.0.0"
+  },
   "scripts": {
     "start": "node app.js"
   },

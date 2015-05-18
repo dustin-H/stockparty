@@ -1,3 +1,4 @@
+var coveralls = require('coveralls');
 var welcome = require('./welcome.js');
 var colors = require('colors');
 //Loading Config:
